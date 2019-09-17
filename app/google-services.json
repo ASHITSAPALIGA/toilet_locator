@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "957267629953",
+    "firebase_url": "https://displayfirebase.firebaseio.com",
+    "project_id": "displayfirebase",
+    "storage_bucket": "displayfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957267629953:android:1e7a807195a5221b333a80",
+        "android_client_info": {
+          "package_name": "com.example.livetoiletlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957267629953-vue171ogcpec7iob3fhkoscfa7bbesom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livetoiletlocator",
+            "certificate_hash": "d9dde8fdb6187647530562248c957ac2657c50f8"
+          }
+        },
+        {
+          "client_id": "957267629953-76pufhkgpi6qgpg5k319q8g8ts30qgsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livetoiletlocator",
+            "certificate_hash": "edb4659df21c0025f86f7e72b26f439b3b05b3c3"
+          }
+        },
+        {
+          "client_id": "957267629953-mlvsmb1be3dd23tmiacc0j8b1j9dmtk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMOaNT1UBGXZ_0dp26SwaMspXgoCWtJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957267629953-mlvsmb1be3dd23tmiacc0j8b1j9dmtk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
